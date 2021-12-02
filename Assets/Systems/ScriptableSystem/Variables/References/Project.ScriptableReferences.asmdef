@@ -1,0 +1,16 @@
+{
+    "name": "Project.ScriptableReferences",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0482481dbe973be458944f9e71f7b95a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

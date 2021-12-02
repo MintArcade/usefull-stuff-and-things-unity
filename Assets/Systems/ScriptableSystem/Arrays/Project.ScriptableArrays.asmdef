@@ -1,0 +1,16 @@
+{
+    "name": "Project.ScriptableArrays",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7e805e76fb0a8c040b7c368aa9e475d3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

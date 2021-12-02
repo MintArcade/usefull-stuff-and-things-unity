@@ -1,0 +1,20 @@
+{
+    "name": "Project.Editors",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7e805e76fb0a8c040b7c368aa9e475d3",
+        "GUID:0482481dbe973be458944f9e71f7b95a",
+        "GUID:eb6e20006669b114a85411ef1e49be09"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
