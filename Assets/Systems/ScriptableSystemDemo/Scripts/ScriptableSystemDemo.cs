@@ -6,22 +6,21 @@ namespace ScriptableSystem
 	{
 		// Ints
 
-		public uint a;
-		public ulong b;
-		public ushort c;
-		public byte d;
-		public sbyte i;
-		public short j; // From -32768 to 32767 
-		public ushort k; // From 0 to 65535 
-		public long l;
+		public IntReference intReference;
+		public BoundsVariable boundsVariable;
+		public ByteReference byteReference;
+		public CharReference charReference;
+		public DoubleReference doubleReference;
+		public LayerMaskReference layerMaskReference;
+		public LongReference longReference;
+		public RectVariable rectVariable;
+		public SbyteReference sbyteReference;
+		public UIntReference uIntReference;
+		public ULongReference uLongReference;
+		public UShortReference uShortReference;
 
-		// Floats
 
-		public double g;
 
-		// Symbols
-
-		public char e;
 		public decimal f; // HIDEN
 
 		public object h; // HIDEN

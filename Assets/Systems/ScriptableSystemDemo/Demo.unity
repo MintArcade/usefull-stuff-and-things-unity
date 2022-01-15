@@ -409,6 +409,38 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2cc551ae26e6ac24491cf57412d8838c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  intReference:
+    UseConstant: 1
+    ConstantValue: 0
+    Variable: {fileID: 0}
+  boundsVariable: {fileID: 0}
+  byteReference:
+    UseConstant: 1
+    ConstantValue: 0
+    Variable: {fileID: 0}
+  charReference:
+    UseConstant: 1
+    ConstantValue: 81
+    Variable: {fileID: 0}
+  doubleReference:
+    UseConstant: 1
+    ConstantValue: 0
+    Variable: {fileID: 0}
+  layerMaskReference:
+    UseConstant: 1
+    ConstantValue:
+      serializedVersion: 2
+      m_Bits: 0
+    Variable: {fileID: 0}
+  longReference:
+    UseConstant: 1
+    ConstantValue: 0
+    Variable: {fileID: 0}
+  rectVariable: {fileID: 0}
+  sbyteReference:
+    UseConstant: 1
+    ConstantValue: 0
+    Variable: {fileID: 0}
   a: 135
   b: 80
   c: 137
@@ -417,7 +449,7 @@ MonoBehaviour:
   j: -32768
   k: 65535
   l: 948
-  g: 4.43
+  g: -5.29
   e: 119
   bounds:
     m_Center: {x: 0, y: 0.36, z: 0}
