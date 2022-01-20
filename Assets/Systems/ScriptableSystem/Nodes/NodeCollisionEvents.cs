@@ -6,7 +6,7 @@ namespace Nodes
 	[DisallowMultipleComponent]
 	[RequireComponent(typeof(Rigidbody))]
 	[RequireComponent(typeof(Collider))]
-	public class NodeCollision : MonoBehaviour
+	public class NodeCollisionEvents : MonoBehaviour
 	{
 		public GameObject otherGameObject;
 		public UnityEvent CollisionEnterEvent;
